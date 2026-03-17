@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin-top: 80px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+#scoreboard {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+button{
+    font-size: 18px;
+    padding: 12px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#result {
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+.game-container {
+    background: white;
+    width: 400px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
